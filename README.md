@@ -53,7 +53,7 @@
 
 </summary>
 
-- [About the Project](#star2-about-the-project)
+- [About the Project]
   * [Folder Structure](#bangbang-folder-structure)
   * [Tech Stack](#space_invader-tech-stack)
 - [Getting Started](#toolbox-getting-started)
