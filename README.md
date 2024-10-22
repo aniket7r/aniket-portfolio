@@ -81,7 +81,7 @@ Threejs_3D_Portfolio/
 Download or clone this repo by using the link below:
 
 ```bash
- https://github.com/ladunjexa/Threejs_3D_Portfolio.git
+ https://github.com/aniket7r/aniket-portfolio.git
 ```
 
 #### Step 2:
@@ -138,16 +138,7 @@ At the main folder execute the following command in console to run the developme
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Contributing -->
-## :wave: Contributing
 
-<a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ladunjexa/Threejs_3D_Portfolio" />
-</a>
-
-
-Contributions are always welcome!
-
-See [`contributing.md`](https://contributing.md/) for ways to get started.
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -162,35 +153,4 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- License -->
-## :warning: License
 
-Distributed under the MIT License. See [LICENSE.txt](https://github.com/ladunjexa/Threejs_3D_Portfolio/blob/main/LICENSE) for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- Contact -->
-## :handshake: Contact
-
-Liron Abutbul - [@lironabutbul6](https://twitter.com/lironabutbul6) - [@ladunjexa](https://t.me/ladunjexa)
-
-Project Link: [https://github.com/ladunjexa/Threejs_3D_Portfolio](https://github.com/ladunjexa/Threejs_3D_Portfolio)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- Acknowledgments -->
-## :gem: Acknowledgements
-
-This section used to mention useful resources and libraries that used in 3D Portfolio
-
- - [Email JS](https://www.emailjs.com/)
- - [Framer Motion](https://www.framer.com/motion/)
- - [React Tilt](https://www.npmjs.com/package/react-tilt)
- - [React Vertical Timeline Component](https://www.npmjs.com/package/react-vertical-timeline-component)
- - #JSMastery
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<p align="center">
-<img src="https://github.com/ladunjexa/Threejs_3D_Portfolio/blob/main/public/logo.png" height="auto" width="10%" />
-</p>
