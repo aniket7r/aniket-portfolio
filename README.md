@@ -11,18 +11,6 @@
 
 <!-- Badges -->
 
-   
- <h4>
-  <span> · </span>
-    <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio">Documentation</a>
-  <span> · </span>
-    <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/issues/">Report Bug</a>
-  <span> · </span>
-    <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/issues/">Request Feature</a>
-  </h4>
-</div>
-
-<br />
 
 <!-- Table of Contents -->
 <details>
