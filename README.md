@@ -32,7 +32,6 @@
 </p>
    
  <h4>
-    <a href="https://threejs-3-d-portfolio.vercel.app/">View Demo</a>
   <span> · </span>
     <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio">Documentation</a>
   <span> · </span>
@@ -68,10 +67,6 @@
 
 <!-- About the Project -->
 ## :star2: About the Project
-
-<div align="center">
-  <img src="readme_assets/3d-portfolio.png" height="auto" width="90%"/>
-</div>
 
 <br />
 
