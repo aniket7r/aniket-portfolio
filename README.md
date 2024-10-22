@@ -2,7 +2,6 @@
 <div align="center">
 
   ![Project Banner](readme_assets/readme_banner.png#gh-dark-mode-only)
-  ![Project Banner](readme_assets/readme_banner-light.png#gh-light-mode-only)
 
   <h1>Three.js 3D Portfolio</h1>
   
