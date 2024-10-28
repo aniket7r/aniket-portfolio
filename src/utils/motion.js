@@ -17,10 +17,12 @@ export const textVariant = (delay) => {
 };
 
 export const fadeIn = (direction, type, delay, duration) => {
+  const isMobile = window.innerWidth <= 768;
+
   return {
     hidden: {
-      x: direction === "left" ? 100 : direction === "right" ? -100 : 0,
-      y: direction === "up" ? 100 : direction === "down" ? -100 : 0,
+      x: direction === "left" ? (isMobile ? 50 : 100) : direction === "right" ? (isMobile ? -50 : -100) : 0,
+      y: direction === "up" ? (isMobile ? 50 : 100) : direction === "down" ? (isMobile ? -50 : -100) : 0,
       opacity: 0,
     },
     show: {
@@ -30,7 +32,7 @@ export const fadeIn = (direction, type, delay, duration) => {
       transition: {
         type: type,
         delay: delay,
-        duration: duration,
+        duration: isMobile ? duration / 2 : duration,
         ease: "easeOut",
       },
     },
@@ -38,23 +40,25 @@ export const fadeIn = (direction, type, delay, duration) => {
 };
 
 export const zoomIn = (delay, duration) => {
+  const isMobile = window.innerWidth <= 768;
+
   return {
     hidden: {
-      scale: 0,
+      scale: isMobile ? 0.5 : 0,
       opacity: 0,
     },
     show: {
       scale: 1,
       opacity: 1,
       transition: {
-        type: "tween",
         delay: delay,
-        duration: duration,
+        duration: isMobile ? duration / 2 : duration,
         ease: "easeOut",
       },
     },
   };
 };
+
 
 export const slideIn = (direction, type, delay, duration) => {
   return {
